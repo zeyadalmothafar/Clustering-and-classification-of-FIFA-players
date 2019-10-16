@@ -1,0 +1,3 @@
+# Clustering-and-classification-of-FIFA-players
+The goal of this paper is to develop a predictive model for the rating and position of soccer players for FIFA, a series of association football video games released annually by Electronic Arts under the EA Sports label. Another objective of this research is to classify the players and predict their position and rating with the use of multi-class neural networks (MLP) and classification algorithms (KNN, SVM, and Naïve Bayes). Clustering of similar players is also performed with k-means, as well as linear regression. 
+The study was developed using a complete FIFA 2017 player dataset containing 17,589 observations 
